@@ -1,0 +1,491 @@
+
+
+
+/*Extra small devices (portrait phones, 320px and up)*/
+@media (min-width: 320px) and (max-width: 575.98px) {
+
+.m{
+	margin-right: 0;
+}
+
+.logo {
+    width: 90% !important;
+    margin-bottom:30px;
+    
+}
+.cl {
+    margin-left: 20px;
+    height: 40px;
+    width: 184px;
+}
+.menu{
+	text-align: right;
+}
+
+.menu ul li a{
+    text-align:right;
+   
+}
+.slider{
+	padding-top:0;
+}
+.mt{
+	margin-top:0;
+}
+
+.h {
+    font-size: 28px !important;
+    text-align: center;
+    line-height: 33px;
+    margin-top:85px;
+
+}
+.cen {
+    
+    margin-bottom: 0px;
+    padding-bottom: 20px;
+}
+.card1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.mm{
+	margin-top:0;
+	margin-left:30px;
+}
+.p{
+	font-size: 18px !important;
+	margin:0;
+	 text-align: center;
+	 margin-top: 26px;
+
+}
+.h1{
+	font-size: 30px;
+		 text-align: center;
+
+
+}
+h3{
+	font-size: 20px;
+	margin-left: 0;
+		 text-align: center;
+}
+.pl {
+    
+    margin-left: 0px;
+    text-align: center !important;
+}
+.me{
+	height: 100%;
+	width:100%;
+	margin-top: 28px;
+}
+.h2 {
+    font-size: 28px;    
+    text-align: center;
+}
+.b_button {
+    height: 55px;
+    width: 240px;
+}
+.beg {
+    height: 55px;
+    width: 240px;
+}
+.card2 {
+    margin-top: 40px;
+    margin-bottom: 0px;
+}
+.buy {
+    margin-top: 45px;
+    margin-bottom: 40px;
+    
+}
+.h3 {
+    font-size: 17px;
+    margin:25px 0;    
+}
+.top{
+	margin-top:45px !important;
+}
+
+.by {
+    font-size: 30px;    
+    margin: 50px 0;
+}
+.padd {
+    margin-bottom: 50px;
+}
+
+.list {
+    margin-bottom: 60px;
+}
+footer {
+    padding-top: 36px;
+    padding-bottom: 20px;
+    margin-top: 0px;
+}
+.menu1 {
+    padding: 0;
+        text-align: center;
+    margin-top: 21px;
+
+}
+p {
+    margin-top: 25px;
+    
+}
+
+.n{
+	font-size: 13px;
+}
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+.cl {
+    margin-left: 235px;
+    height: 40px;
+    width: 190px;
+}
+.menu ul li a{
+    text-align:right;
+   
+}
+.logo {
+    width: 98% !important;
+}
+.slider{
+	padding-top:0;
+}
+.mt{
+	margin-top:0;
+}
+.h{
+	font-size: 28px;
+	margin-left:55px !important;
+	text-align: center;
+}
+.hr{
+	width:50% !important;
+}
+.hr1{
+	width:75% !important;
+}
+.card1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.mm{
+	margin-top:0;
+	text-align: center !important;
+	margin-left:150px;
+}
+.p{
+	margin:0;
+}
+.h1{
+	font-size: 35px;
+
+}
+h3{
+	font-size: 20px;
+	margin-left: 0;
+}
+.pl {
+    
+    margin-left: 0px;
+}
+.me{
+	height: 80%;
+	width:96%;
+	margin-top: 45px;
+}
+.h2 {
+    font-size: 26px;    
+    text-align: center;
+}
+.b_button {
+    height: 47px;
+    width: 210px;
+}
+.beg {
+    height: 47px;
+    width: 210px;
+}
+.card2 {
+    margin-top: 32px;
+    margin-bottom: 20px;
+}
+.buy {
+    margin-top: 45px;
+    margin-bottom: 40px;
+    
+}
+.h3 {
+    font-size: 17px;
+    margin:25px 0;    
+}
+.top{
+	margin-top:45px !important;
+}
+
+.by {
+    font-size: 30px;    
+    margin: 50px 0;
+}
+.padd {
+    margin-bottom: 50px;
+}
+
+.list {
+    margin-bottom: 60px;
+}
+footer {
+   
+    padding-top: 38px;
+    margin-top: 60px;
+}
+.menu1 {
+    padding: 0;
+}
+p {
+    margin-top: 25px;
+    
+}
+
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+.menu ul li a{
+    text-align:right;
+   
+}
+.cl {
+    margin-left: 395px;
+    height: 40px;
+    width: 190px;
+}
+.slider{
+	padding-top:0;
+}
+.mt{
+	margin-top:0;
+}
+.h{
+	font-size: 32px;
+	margin-left:10px;
+}
+.card1 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+.mm{
+	margin-top:0;
+}
+.p{
+	margin:0;
+}
+.h1{
+	font-size: 35px;
+
+}
+h3{
+	font-size: 20px;
+	margin-left: 0;
+}
+.pl {
+    
+    margin-left: 0px;
+}
+.me{
+	height: 80%;
+	width:130%;
+	margin-top: 45px;
+}
+.h2 {
+    font-size: 18px;    
+    text-align: center;
+}
+.b_button {
+    height: 40px;
+    width: 164px;
+    
+}
+.beg {
+    height: 40px;
+    width: 164px;
+}
+.card2 {
+    margin-top: 32px;
+    margin-bottom: 20px;
+}
+.buy {
+    margin-top: 45px;
+    margin-bottom: 40px;
+    
+}
+.h3 {
+    font-size: 17px;
+    margin:25px 0;    
+}
+.top{
+	margin-top:45px !important;
+}
+
+.by {
+    font-size: 30px;    
+    margin: 50px 0;
+}
+.padd {
+    margin-bottom: 50px;
+}
+.h {
+    font-size: 25px;
+}
+.list {
+    margin-bottom: 60px;
+}
+footer {
+   
+    padding-top: 38px;
+    margin-top: 60px;
+}
+.menu1 {
+    padding: 0;
+}
+p {
+    margin-top: 25px;
+    
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.mm{
+	margin-top:0;
+	margin-bottom: 25px;
+}
+
+.p{
+	text-align: center;
+	margin:0 30px;
+}
+
+.mt{
+	margin-top:0px;
+}
+.h1{
+
+    font-size: 35px;
+}
+.h{
+	  font-size: 36px;
+}
+.cen{
+	
+    margin-bottom: 20px;
+    
+}
+.by{
+	 font-size: 35px;
+	 margin:50px 0;
+}
+.card1 {
+    margin-top: 80px;
+    margin-bottom: 67px;
+}
+.card2{
+		
+	margin-bottom:45px;
+}
+.buy{
+	margin-top:0;	
+	margin-bottom:50px;
+}
+.padd {
+    margin-bottom: 60px;
+}
+.h3{
+	font-size: 20px;
+}
+
+.box {
+    
+    padding: 20px;
+   
+}
+.top {
+    margin-top: 38px;
+}
+p{
+	font-size:14px;
+	margin-top: 25px;
+}
+.list {
+    margin-bottom: 60px;
+}
+footer {
+  
+    padding-top: 30px;
+    margin-top: 65px;
+}
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+
+
+.mt{
+	margin-top:25px;
+}
+.h {
+   
+    font-size: 43px;
+    
+}
+.h1{
+
+    font-size: 50px;
+}
+.card2 {
+    
+    margin-bottom: 60px;
+}
+.p{
+	text-align: center;
+}
+.buy{
+	margin-top:60px;
+	margin-bottom:50px;
+}
+.top {
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+.by{
+	 font-size: 37px;
+	 margin:60px 0;
+}
+.padd {
+    margin-bottom: 50px;
+}
+
+}
+
+/*Extra extra large devices (larger desktops, 1400px and up)*/
+@media (min-width: 1400px){
+
+
+.buy{
+	margin-bottom: 80px;
+}
+
+
+
+}

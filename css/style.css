@@ -1,0 +1,341 @@
+
+/*font-family: 'Poppins', sans-serif;*/
+/*<i class="fas fa-phone-alt"></i>,<i class="far fa-envelope"></i>*/
+body{
+	font-family: 'Poppins', sans-serif;
+}
+/*header start*/
+header{
+	background-color: #5D56F4;
+	padding:20px 0;
+}
+.menu {
+	
+}
+
+.gr{
+	color:#00E3A1;
+	margin-right: 5px;
+}
+.menu ul li a{
+	
+	font-size: 14px;
+	font-weight: 600;
+	margin-right: 10px;
+	color:white !important;
+	transition:.3s;
+}
+.menu ul li a:hover{
+	color:black !important;
+}
+.im{
+	margin-left: 54px !important;
+	width:35px;
+	height:35px;
+}
+
+.c_button{
+	width:215px;
+	height:42px;
+	background-color: #00E3A1;
+	
+	font-size: 14px;
+	font-weight: 600;
+	color:white !important;
+	border:none !important;
+
+}
+.c_button:hover{
+	background-color:black;
+}
+.c_button img{
+	margin-left:26px;
+	
+}
+/*header end*/
+
+/*banner start*/
+.slider{
+	min-height: 400px;
+	background-color: #5D56F4;
+	padding-top: 30px;
+	width:100%;
+}
+.mt{
+	margin-top:50px;
+}
+.h1{
+	
+	font-size: 64px;
+	font-weight: 700;
+	color:white !important;
+	margin: 15px 0;
+}
+
+h3{
+	
+	font-size: 24px;
+	font-weight: 700;
+	color:#dfddfd  !important;
+	margin-bottom: 15px;
+	margin-left: 70px;
+}
+.pl{
+	
+	font-size: 15px;
+	font-weight: 400;
+	color:#dfddfd !important;
+	margin-left: 70px;
+}
+/*banner start*/
+
+/*card1 start*/
+.card1{
+	margin-top:80px;
+	margin-bottom:100px;
+}
+.hr{
+	margin-left:0 !important;
+
+}
+.hr1{
+	margin-left:0 !important;
+
+}
+.h{
+	
+	font-size: 53px;
+	font-weight:600;
+	color:#221f76 !important;
+	margin-top: 30px;
+	
+}
+.h2{
+	
+	font-size: 22px;
+	font-weight:600;
+	color:#221f76 !important;
+	margin-top:30px;
+	margin-bottom:20px;
+}
+
+.b_button{
+	background-color: #DDFBF3 !important;
+	border:none;
+	height:46px;
+	width:230px;
+	color:#616479;
+}
+.beg{
+	border:none;
+	background-color:white !important ;
+	height:46px;
+	width:230px;
+	color:#616479;
+}
+.f_button{
+	background-color: #F2F2FE !important;
+}
+.mm{
+	margin-top:30px ;
+	margin-bottom:20px ;
+	text-align: center; !important;
+}
+
+.p{
+	
+	font-size: 13px !important;
+	font-weight:400;
+	color:#616479 !important;
+	margin:10px 30px;
+
+}
+.p1{
+	
+
+	font-weight:400;
+	color:#616479 !important;
+	font-size: 17px !important;
+	margin:30px 0;
+}
+/*card1 end*/
+
+/*card2 start*/
+.card2{
+		margin-top:80px;
+	margin-bottom:100px;
+}
+
+
+p{
+	
+	font-size: 16px;
+	font-weight: 400;
+	color:#dfddfd !important;
+}
+/*card2 end*/
+
+/*buy start*/
+.buy{
+		margin-top:80px;
+	margin-bottom:100px;
+	 background-color: #5D56F4;
+
+
+		
+}
+.by{
+	
+	font-size: 44px;
+	font-weight: 600;
+	color:white !important;
+	margin:80px 0;
+}
+.h3{
+	
+	font-size: 23px;
+	font-weight: 600;
+	color:white !important;
+	margin:20px 0;
+
+}
+.dp{
+	
+	font-size: 16px;
+	font-weight: 400;
+	color:white !important;
+}
+
+.box{
+	min-height:200px;
+	background-color:#1B159D;
+	margin-right:10px;
+	border:none !important;
+	padding:30px;
+	margin-bottom:50px;
+}
+.top{
+	margin-bottom: 10px;
+}
+
+.padd{
+	margin-bottom: 90px;
+}
+
+/*buy end*/
+
+/*list start*/
+.list{
+		
+	margin-bottom:100px;
+}
+button{
+	height:30px;
+	width:80px;
+}
+.cen{
+
+	text-align: center;
+	margin-bottom: 30px;
+	padding-bottom:30px;
+}
+
+.co{
+	
+	font-size: 18px;
+	font-weight: 400;
+	color:white !important;
+}
+.mbr{
+	margin-bottom: 0px;
+}
+.br{
+	margin-bottom: none;
+	font-size:17px;
+}
+
+.ba {
+    background-color: #5D56F4;
+    padding:0;
+}
+
+.bb{
+	background-color: white;
+	 padding:0;
+}
+
+
+.h4{
+	padding:20px 0;
+	text-align: center;
+}
+
+.bd1{
+	border:none;
+}
+
+.bc{
+	background-color: #EFEFFB;
+	 padding:0;
+}
+.bd2{
+	border:none;
+}
+.bd3{
+	height:60px;
+	width:100%;
+	text-align: center;
+}
+.bd4{
+	height:46px;
+	width:50%;
+	text-align: center;
+}
+
+
+.im2{
+	border:none;
+	border-bottom: 100%;
+	
+}
+.im5{
+	border:none;
+	border-bottom:2px !important;
+}
+
+.v{
+	background-color: white !important;
+	padding:0 0 !important;
+	border-bottom:none;
+}
+.v1{
+	background-color: grey !important;
+}
+
+.im4{
+	height:38px;
+	width:43%;
+	text-align: center;
+	border:none;
+	
+}
+
+/*list end*/
+
+/*footer start*/
+footer{
+
+	background-color: #5D56F4;
+	padding-top:50px;
+		margin-top:80px;
+	
+}
+
+.menu1{
+	padding:20px 0;
+}
+.menu1 ul li a{
+	text-decoration: none;
+	color:white;
+}
+/*footer end*/
